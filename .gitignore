@@ -161,3 +161,4 @@ cython_debug/
 
 .DS_Store
 .vscode
+unit03-model-training/.DS_Store
