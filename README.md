@@ -8,5 +8,6 @@ The course was given at ISSAI for two weeks as a preparation for a research proj
 | ----------- | ----------- |
 | 01 | Intro to ML and DL |
 | 02 | Intro to Tensors with PyTorch |
-| 03 | Model training with PyTorch|
-| 04 | Training Multilayer NNs|
+| 03 | Model training with PyTorch |
+| 04 | Training Multilayer NNs |
+| 05 | Intro to PyTorch Lightning |
