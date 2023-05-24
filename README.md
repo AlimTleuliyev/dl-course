@@ -11,3 +11,5 @@ The course was given at ISSAI for two weeks as a preparation for a research proj
 | 03 | Model training with PyTorch |
 | 04 | Training Multilayer NNs |
 | 05 | Intro to PyTorch Lightning |
+| 06 | Deep Learning Tips and Tricks |
+
