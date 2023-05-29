@@ -1,0 +1,4 @@
+hidden_units:
+- 10
+- 20
+learning_rate: 0.01
