@@ -163,4 +163,4 @@ cython_debug/
 .vscode
 unit03-model-training/.DS_Store
 
-unit07-cv/excercise/data
+unit07-cv/excercise/tiny-imagenet-200
